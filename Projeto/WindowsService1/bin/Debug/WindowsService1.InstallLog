@@ -1,0 +1,13 @@
+﻿Instalando o assembly 'C:\Users\Gabriel Becker\Desktop\Projeto\WindowsService1\bin\Debug\WindowsService1.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   assemblypath = C:\Users\Gabriel Becker\Desktop\Projeto\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = C:\Users\Gabriel Becker\Desktop\Projeto\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Não foi possível encontrar instaladores públicos com o atributo RunInstallerAttribute.Yes no assembly C:\Users\Gabriel Becker\Desktop\Projeto\WindowsService1\bin\Debug\WindowsService1.exe.
+Confirmando o assembly 'C:\Users\Gabriel Becker\Desktop\Projeto\WindowsService1\bin\Debug\WindowsService1.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   assemblypath = C:\Users\Gabriel Becker\Desktop\Projeto\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = C:\Users\Gabriel Becker\Desktop\Projeto\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Não foi possível encontrar instaladores públicos com o atributo RunInstallerAttribute.Yes no assembly C:\Users\Gabriel Becker\Desktop\Projeto\WindowsService1\bin\Debug\WindowsService1.exe.
+Remova o arquivo InstallState porque não há instaladores.

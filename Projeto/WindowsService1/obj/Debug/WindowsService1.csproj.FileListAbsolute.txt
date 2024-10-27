@@ -1,0 +1,10 @@
+C:\Users\Gabriel Becker\Desktop\Projeto\WindowsService1\obj\Debug\WindowsService1.csproj.AssemblyReference.cache
+C:\Users\Gabriel Becker\Desktop\Projeto\WindowsService1\obj\Debug\WindowsService1.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel Becker\Desktop\Projeto\WindowsService1\bin\Debug\WindowsService1.exe.config
+C:\Users\Gabriel Becker\Desktop\Projeto\WindowsService1\bin\Debug\WindowsService1.exe
+C:\Users\Gabriel Becker\Desktop\Projeto\WindowsService1\bin\Debug\WindowsService1.pdb
+C:\Users\Gabriel Becker\Desktop\Projeto\WindowsService1\obj\Debug\WindowsService1.exe
+C:\Users\Gabriel Becker\Desktop\Projeto\WindowsService1\obj\Debug\WindowsService1.pdb
+C:\Users\Gabriel Becker\Desktop\Projeto\WindowsService1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Gabriel Becker\Desktop\Projeto\WindowsService1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Gabriel Becker\Desktop\Projeto\WindowsService1\obj\Debug\WindowsS.24B08AB2.Up2Date
